@@ -1,7 +1,7 @@
 <h1>Easy Shopping</h1>
 <br>
 <br>
-<h2>Primeiro projeto de responsividade aprendido no <a href="http://rodolfomori.com.br/devclub">DevClub<a/>.</h2>
+<h2>Primeiro projeto de responsividade aprendido no <a href="http://rodolfomori.com.br/devclub">DevClub</a>.</h2>
 
 <h3>Tecnologias utilizadas</h3>
 <br>
